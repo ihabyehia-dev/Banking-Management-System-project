@@ -1,0 +1,9 @@
+*.class
+/bin/
+/out/
+/.settings/
+/.classpath
+/.project
+bank-data.txt
+bank-data.txt.tmp
+.DS_Store
